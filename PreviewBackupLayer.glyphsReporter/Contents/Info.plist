@@ -17,11 +17,11 @@
 	<key>CFBundleVersion</key>
 	<string>1</string> <!-- 123 -->
 	<key>UpdateFeedURL</key>
-	<string>____OnlineUrlToThisPlist____</string>
+	<string>https://raw.githubusercontent.com/ncarding/glyphs-plugin-updates/main/updates/PreviewBackupLayer/Info.plist</string>
 	<key>productPageURL</key>
-	<string>____ProductPageURL____</string>
+	<string>https://github.com/ncarding/PreviewBackupLayer/releases/latest</string>
 	<key>productReleaseNotes</key>
-	<string>____LatestReleaseNotes____</string>
+	<string>Initial public release.</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, Neil Carding, 2026</string>
 	<key>NSPrincipalClass</key>
